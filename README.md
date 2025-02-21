@@ -1,6 +1,7 @@
 # SQL-HolaMundo
 Práctica de básicos de SQL con videos de HolaMundo :)
 Aquí adjunto mis notas y código de los ejercicios que hice junto al video de HolaMundo para prácticar de nuevo mi lenguaje de SQL en el programa MySQL.
+![Captura de pantalla (75)](https://github.com/user-attachments/assets/d0538412-a93c-4d53-a72b-411465ac3e24)
 
 **Este es el link para el vídeo:**
 https://youtu.be/uUdKAYl-F7g?si=iVIFBV1aOoyoE-ue
