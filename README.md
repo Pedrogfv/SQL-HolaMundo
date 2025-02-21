@@ -16,4 +16,5 @@ Dentro de los conceptos que se repasan en el video tenemos
 - Delete
 - Join
 - Order By
+
 De los capítulos dentro del video mi favorito fue el modelado de diagramas de entidad-relación.
